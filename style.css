@@ -1,5 +1,10 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 40;
+  padding: 50;
   color: red;
+  width: 291px;
+  height: 53px;
+  top: 276px;
+  left: 42px;
+  border-radius: 5px;
 }
